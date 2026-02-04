@@ -3,7 +3,6 @@ import numpy as np
 import sys
 import os
 
-# Add config directory to path
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 from config import OUTPUT_DIR
 
