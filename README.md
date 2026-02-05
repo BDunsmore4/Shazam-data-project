@@ -54,9 +54,9 @@ The method used here was very data-driven, as opposed to being more hypothesis l
 
 •	Tried to turn a 2D map of Great Britain (excluded NI here) into 3D, where the mountains/hills between cities correlate to the extent to which their discovery patterns diverge. Eg. If a city is totally unique…let’s say Inverness… the Cairngorms and Scottish Highlands would be very high indeed! 
 
-•	I tried using python in blender to create a 3D model before taking this mesh and combining it with some graphics in Manus. Code quite simple and approximate: broadly, each intercity cultural distance score would rise and fall around midpoint and when there was a crossing of paths, an average of the different path heights was taken. Execution is slightly lacking but see my efforts below. Mapping of cities is slightly off, so needs refining. 
+•	I tried using python in blender to create a 3D model before taking this mesh and combining it with some graphics in Manus. Python code quite simple and approximate: broadly, each intercity cultural distance score would rise and fall around midpoint and when there was a crossing of paths, an average of the different path heights was taken. Execution is slightly lacking but see my efforts below. Mapping of cities is slightly off, so needs refining. 
 
-Click on link near the top of the page for interactive version.
+Click on link near the top of the page for interactive version created by manus.
 
 <img width="923" height="664" alt="Cultural topography 1" src="https://github.com/user-attachments/assets/2b5f295d-10fd-41b7-81bb-cfe052fdd5a4" />
 
