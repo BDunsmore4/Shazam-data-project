@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+rapidfuzz
+umap-learn
+hdbscan
+tqdm
+openpyxl
+matplotlib
+seaborn
+plotly
