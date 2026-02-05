@@ -31,7 +31,7 @@ warnings.filterwarnings('ignore')
 sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..'))
 from config import OUTPUT_DIR, VIZ_DIR, RAW_DIR, RANK_EXPONENT, MIN_SONGS
 
-DATA_FILE = os.path.join(OUTPUT_DIR, 'UK_Cities_with_features.xlsx')
+DATA_FILE = os.path.join(OUTPUT_DIR, 'full_city_data.xlsx.xlsx')
 
 # City coordinates (manually compiled from Google Maps/ONS)
 CITY_COORDS = {
