@@ -28,7 +28,6 @@ The method used here was very data-driven, as opposed to being more hypothesis l
 
 •	Once all songs are embedded in this space, I calculated the city centroids, weighting them using TF-IDF, so while higher ranked songs are weighted more in each city, the more locally distinctive discoveries also have more weight.
 
-file:///Users/bendunsmore/Documents/Goldsmiths%20MSc/SHAZAM%20PROJECT/interactive_3d.html
 
 
 
